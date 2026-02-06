@@ -1,0 +1,10 @@
+data,produto,categoria,preco,quantidade,regiao
+2025-01-05,Notebook,Eletrônicos,4500,2,Sudeste
+2025-01-06,Mouse,Eletrônicos,150,5,Sul
+2025-01-07,Cadeira Escritório,Móveis,1200,1,Sudeste
+2025-01-08,Teclado,Eletrônicos,300,3,Nordeste
+2025-01-09,Monitor,Eletrônicos,1800,2,Sul
+2025-01-10,Mesa Escritório,Móveis,900,1,Sudeste
+2025-01-11,Fone de Ouvido,Eletrônicos,250,4,Norte
+2025-01-12,Notebook,Eletrônicos,4500,1,Nordeste
+2025-01-13,Mouse,Eletrônicos,150,10,Sudeste
